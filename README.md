@@ -1,2 +1,2 @@
-# fastapi_angular_proto
-Prototype of a FastApi - NodeJs project
+# fastapi_dash_proto
+Prototype of a FastApi - Dash project
